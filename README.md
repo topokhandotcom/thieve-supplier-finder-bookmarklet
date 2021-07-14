@@ -8,6 +8,6 @@ In this Bookmarklet we're using thieve site to search with all picture that a li
 
 But by using this Bookmarklet you'll be more productive
 
-You don't have to copy the url and go to thive site every time
+You don't have to copy the url and go to thieve site every time
 
 just one simple click will open a new browser tab and search on thieve site with all pictures.
