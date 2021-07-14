@@ -1,4 +1,5 @@
 # thieve-supplier-finder-bookmarklet
+
 ```javascript
 javascript:(function(){window.open('https://thieve.co/tools/suppliers-search?id='+location.pathname.split(".")[0].split("/").pop());})()
 ```
@@ -16,7 +17,22 @@ just one simple click will open a new browser tab and search on thieve site with
 
 <ol>
   <li>Create an account on thieve.co</li>
-  <li>copy the code above</li>
-  <li>Right click on the bookmarks bar, and choose "Add Page"</li>
-  <li>Enter a name, and in the URL put the code that you've copied from above, and click save.</li>
+  <li>copy the code above 
+  </li>
+  
+  !["Screenshot of how to copy the code from above"](Step_2.png)
+  
+  <li>Right click on the bookmarks bar, and choose "Add Page"
+    
+   !["Screenshot of how to add a Bookmarklet to chrome browser"](Step_3.png)
+    
+  </li>
+ 
+  <li>Enter a name, and in the URL put the code that you've copied from above, and click save.
+    
+  !["Screenshot of adding a site to chrome bookmarks bar"](Step_4.png)
+    
+  </li>
+    
 </ol>
+
