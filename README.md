@@ -5,7 +5,7 @@ javascript:(function(){window.open('https://thieve.co/tools/suppliers-search?id=
 ```
 This is a <a href="http://en.wikipedia.org/wiki/Bookmarklet">Bookmarklet</a> to help you search for other suppliers on AliExpress, using all pictures on any AliExpress listing.
 
-In this Bookmarklet we're using <a href="https://thieve.co/?ref=0">thieve.co</a> site to search with all picture that a listing on aliexpress have, you can search for other suppliers on AliExpress, by copying the url of the listing and go to thieve site > tools> Supplier Finder.
+In this Bookmarklet we're using <a href="https://thieve.co/?ref=0">thieve.co</a> site to search with all pictures that a listing on aliexpress have, you can search for other suppliers on AliExpress, by copying the url of the listing and go to thieve site > tools> Supplier Finder.
 
 But by using this Bookmarklet you'll be more productive
 
