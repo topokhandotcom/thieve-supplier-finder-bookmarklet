@@ -33,6 +33,12 @@ just one simple click will open a new browser tab and search on thieve site with
   !["Screenshot of adding a site to chrome bookmarks bar"](Step_4.png)
     
   </li>
+  <li>Go to any product on AliEpress and click on the Bookmarklet </li>
     
 </ol>
 
+
+## Note:
+If you don't find the bookmarks bar, Go to Settings on chrome browser, and on the left side click on Appearance (chrome://settings/appearance), after that click on "Show bookmarks bar"
+
+!["Screenshot of Show bookmarks bar"](Step_5.png)
