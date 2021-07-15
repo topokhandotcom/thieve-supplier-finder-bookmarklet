@@ -21,7 +21,7 @@ just one simple click will open a new browser tab and search on thieve site with
 
 <ol>
   <li>Create an account on <a href="https://thieve.co/?ref=0">thieve.co</a></li>
-  <li>copy the code above 
+  <li>copy the Javascript Code from above 
   </li>
   
   !["Screenshot of how to copy the Javascript Code from above"](Step_2.png)
