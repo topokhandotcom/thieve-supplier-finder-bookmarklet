@@ -24,7 +24,7 @@ just one simple click will open a new browser tab and search on thieve site with
   <li>copy the code above 
   </li>
   
-  !["Screenshot of how to copy the code from above"](Step_2.png)
+  !["Screenshot of how to copy the Javascript Code from above"](Step_2.png)
   
   <li>Right click on the bookmarks bar, and choose "Add Page"
     
